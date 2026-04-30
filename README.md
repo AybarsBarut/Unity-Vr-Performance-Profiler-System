@@ -1,10 +1,35 @@
-# Unity-Vr-Performance-Profiler-System
-Unity Vr Performance Profiler System for debugging scenarios for unusual performance drops 
+# Unity VR Performance Profiler System
 
-How to use;
-Attach a canvas and tmp text to left hand on inspector (works wşth xr origin)
+![type](https://img.shields.io/badge/type-Unity%20XR%20tool-blue) ![tech](https://img.shields.io/badge/tech-C%23%20%2F%20Unity-black) ![status](https://img.shields.io/badge/status-active-green)
 
-<img width="331" height="117" alt="{DE9BABD5-0D01-44A9-ACBC-E6563C0BB4F9}" src="https://github.com/user-attachments/assets/d99640d8-32ec-47b3-87ba-f3cef764f64d" />
-<img width="481" height="456" alt="{E5016991-5ADF-415E-838A-F03DF498FB61}" src="https://github.com/user-attachments/assets/b2d6fdf1-862c-4ccd-ade5-9c1eea4bef07" />
-<img width="1917" height="926" alt="{F913BCE2-0DC8-4855-81F5-C39899310F27}" src="https://github.com/user-attachments/assets/72703702-8c6e-4a2c-a162-4914a7d6b5d9" />
-(The cubes visible in the screenshots are non-functional cubes added to show the positions of the right and left hands. The script needs to be assigned to the left hand itself.)
+**Unity VR Performance Profiler System** is a real-time Unity VR performance profiler for monitoring FPS and debugging unusual performance drops directly inside XR scenes.
+
+Designed for Unity VR developers, XR training simulation teams, Oculus/Meta Quest developers, technical artists, and performance-focused game teams.
+
+## Features
+
+- Display real-time performance information in VR/XR workflows.
+- Attach profiler output to a hand or in-world UI canvas.
+- Useful for catching FPS drops while testing inside the headset.
+- Simple C# script integration for Unity projects.
+- Designed for debugging scenarios and training simulations where editor-only profiling is not enough.
+
+## Installation
+
+Copy the C# profiler script into your Unity project and attach it to the desired XR object/canvas setup.
+
+## Usage
+
+Create a Canvas and Text/TMP output, place it near the XR left hand or preferred debug anchor, then assign the required references in the Inspector.
+
+## SEO Keywords
+
+Unity VR profiler, Unity XR performance monitor, Meta Quest profiler Unity, Unity FPS monitor VR, XR optimization tool, Unity performance debugging
+
+## GitHub Topics
+
+`unity`, `vr`, `xr`, `performance-profiling`, `oculus`, `meta-quest`, `gamedev`
+
+## Repository
+
+[View on GitHub](https://github.com/AybarsBarut/Unity-Vr-Performance-Profiler-System)
